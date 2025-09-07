@@ -1,6 +1,6 @@
 # Analisis Buzzer Media Sosial pada Demonstrasi
 
-![Project Banner](https://i.imgur.com/placeholder.jpg)
+![Project Banner](output.png)
 
 ## Ringkasan Proyek
 

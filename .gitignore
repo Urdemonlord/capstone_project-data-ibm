@@ -1,0 +1,31 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# Environment and secrets
+.env
+.env.*
+*.env
+credentials.json
+secrets/
+config.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Data files that might contain sensitive information
+*.csv
+*.sqlite
+*.db
+
+# Output files
+*.log
+output/
+results/

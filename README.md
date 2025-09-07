@@ -1,4 +1,4 @@
-# Analisis Buzzer Media Sosial pada Demonstrasi
+# Analisis Buzzer Media Sosial pada Demonstrasi 25-31 Agustus 2025
 
 ![Project Banner](output.png)
 

@@ -8,8 +8,8 @@ Proyek ini menganalisis aktivitas buzzer media sosial selama peristiwa demonstra
 
 ### Link GitHub
 
-- [Google Colab Notebook](https://colab.research.google.com/yourgithublink/capstone_granite_buzzer_demo.ipynb)
-- [Raw Dataset](https://github.com/yourusername/yourrepo/tree/main/data)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1-rDzh9QaAxGoAohtLh305yeom8fhTSQq)
+- [Raw Dataset](https://github.com/Urdemonlord/capstone_project-data-ibm/tree/fresh-branch/data)
 
 ## Overview Proyek
 
@@ -24,8 +24,8 @@ Proyek ini bertujuan untuk:
 ## Link Dataset
 
 Dataset yang digunakan dalam analisis ini berasal dari dua platform media sosial utama:
-- **X (Twitter)**: [Dataset Tweet Demonstrasi](https://github.com/yourusername/yourrepo/tree/main/data/twitter_data)
-- **YouTube**: [Dataset Komentar YouTube](https://github.com/yourusername/yourrepo/tree/main/data/youtube_comments)
+- **X (Twitter)**: [Dataset Tweet Demonstrasi](https://github.com/Urdemonlord/capstone_project-data-ibm/blob/fresh-branch/data/x_recent.json)
+- **YouTube**: [Dataset Komentar YouTube](https://github.com/Urdemonlord/capstone_project-data-ibm/blob/fresh-branch/data/yt_comments.json)
 
 ## Insight & Temuan
 
@@ -127,10 +127,8 @@ Dataset yang digunakan dalam analisis ini berasal dari dua platform media sosial
 
 ## Informasi Tambahan
 
-### Tim Peneliti
-- [Nama Anda]
-- [Anggota Tim 1]
-- [Anggota Tim 2]
+### Peneliti
+- Hasrinata Arya Afendi
 
 ### Tools & Teknologi
 - Python 3.9+
@@ -141,6 +139,6 @@ Dataset yang digunakan dalam analisis ini berasal dari dua platform media sosial
 - LDA untuk topic modeling
 
 ### Kontak
-- Email: [email@domain.com]
-- LinkedIn: [https://linkedin.com/in/yourusername]
-- GitHub: [https://github.com/yourusername]
+- Email: [hasrinata@gmail.com]
+- LinkedIn: [https://linkedin.com/in/hasrinata]
+- GitHub: [https://github.com/Urdemonlord]
